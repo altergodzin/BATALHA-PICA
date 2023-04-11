@@ -1,0 +1,10 @@
+body img{
+    height: 500px;
+    width: 500px;
+}
+body{
+    font-size: 30px;
+}
+#div{
+    background-color: gray;
+}
